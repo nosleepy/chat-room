@@ -45,4 +45,14 @@ LOG_FILE=chat.log
 
 ## 项目截图
 
-// 待添加
+服务端
+
+![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_server.png)
+
+客户端1
+
+![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_client1.png)
+
+客户端2
+
+![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_client2.png)
