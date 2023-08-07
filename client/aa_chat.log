@@ -1,0 +1,7 @@
+send: #1
+recv: [notify] <server> {2}
+send: #2
+recv: [notify] <server> {aa bb }
+send: @bb:222
+send: 2333
+recv: [all] <aa> {2333}

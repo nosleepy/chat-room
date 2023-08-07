@@ -1,0 +1,12 @@
+# ninja log v5
+0	242	1691117103530411673	CMakeFiles/client.dir/client/client.cpp.o	d25f90973053e836
+242	292	1691117103582411635	client	92f03c88cf10b57d
+0	250	1691058786274193172	CMakeFiles/server.dir/server/server.cpp.o	fe13e761487d9449
+0	12	1691388685820922385	build.ninja	be52ca9c00cd43ca
+0	418	1691115794804110035	CMakeFiles/client.dir/common/common.cpp.o	4127cbed35bb64e7
+1	232	1691117103522411678	CMakeFiles/client.dir/common/tcp_client.cpp.o	3743bb3f6fd4f2db
+1	33	1691058786058192991	CMakeFiles/server.dir/common/tcp_server.cpp.o	2dcb9aa021afb7ff
+0	420	1691058786446193315	CMakeFiles/server.dir/common/common.cpp.o	cd8f3f58348d0951
+420	466	1691058786490193351	server	b0de15bce961f322
+0	221	1691389393098171783	CMakeFiles/chat_room.dir/main.cpp.o	fea7e597cc231a1b
+221	263	1691389393142172194	chat_room	e23f67b8adf5a176
