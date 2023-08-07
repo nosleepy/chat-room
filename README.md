@@ -1,4 +1,4 @@
-### chat-room
+## chat-room
 
 基于socket实现的简易聊天室,支持单聊和群聊。
 
