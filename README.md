@@ -56,3 +56,13 @@ LOG_FILE=chat.log
 客户端2
 
 ![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_client2.png)
+
+## 日志截图
+
+客户端1日志
+
+![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_client_log1.png)
+
+客户端2日志
+
+![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_client_log2.png)
