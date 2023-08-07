@@ -42,3 +42,7 @@ LOG_FILE=chat.log
 ```
 
 运行客户端程序,当前目录会生成 `name_chat.log` 文件
+
+## 项目截图
+
+// 待添加
