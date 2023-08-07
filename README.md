@@ -66,3 +66,8 @@ LOG_FILE=chat.log
 客户端2日志
 
 ![](https://cdn.jsdelivr.net/gh/nosleepy/picture@master/img/socket_client_log2.png)
+
+## 参考
+
++ [Chat-Room](https://github.com/fangsong0517/Chat-Room)
++ [socket编程入门](http://c.biancheng.net/socket/)
